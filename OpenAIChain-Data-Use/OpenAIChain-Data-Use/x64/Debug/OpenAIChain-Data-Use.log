@@ -1,0 +1,27 @@
+﻿  64 bit Processing .\OpenAIChainDataUse.idl
+  OpenAIChainDataUse.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\oaidl.idl
+  oaidl.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\objidl.idl
+  objidl.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\unknwn.idl
+  unknwn.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared\wtypes.idl
+  wtypes.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared\wtypesbase.idl
+  wtypesbase.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared\basetsd.h
+  basetsd.h
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared\guiddef.h
+  guiddef.h
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um\oaidl.acf
+  oaidl.acf
+  stdafx.cpp
+  calendarbar.cpp
+  ChildFrm.cpp
+  MainFrm.cpp
+  OpenAIChain-Data-Use.cpp
+  OpenAIChain-Data-UseDoc.cpp
+  OpenAIChain-Data-UseView.cpp
+  正在生成代码...
+  OpenAIChain-Data-Use.vcxproj -> E:\区块链项目\比赛获奖项目\AI区块链\OpenAIChain\OpenAIChain-Data-Use\x64\Debug\OpenAIChain-Data-Use.exe
